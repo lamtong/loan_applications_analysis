@@ -1,0 +1,17 @@
+married	=1 if applicant married
+race	the race of the applicant
+loan_decision	the outcome of loan application
+occupancy	the number of people residing at the property
+loan_amount	loan amount in thousands
+applicant_income	applicant income in thousands
+num_units	number of units in property
+num_dependants	number of dependents
+self_employed	=1 if self employed
+monthly_income	total monthly income
+purchase_price	purchase price
+liquid_assets	liquid assets
+mortage_payment_history	credit history on mortgage payments
+consumer_credit_history	credit history on consumer stuff
+filed_bankruptcy	=1 if filed bankruptcy
+property_type	type of property
+gender	=1 if male
