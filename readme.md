@@ -32,19 +32,19 @@ loan applications/
 
 ## Executive Summary
 
-### Regarding Loan Decisions:
+### Loan Decisions:
 - **87%** of loans were **approved**, **13%** were **rejected**.
 - **90%** of loans that applied for purchasing property **type 2** were **approved** .
 - The *average annual income* and *average liquid assets value* of **approved** applicants is significantly greater than that of **rejected** applicants.
 - The higher an applicant *Mortgage Payment History Score* is, the more likely their application is being **rejected**.
 
-### Regarding Loan Amount:
+### Loan Amount:
 - Majority of loans (**47%**) are around **$100,000** to **$150,000**.
 - Most applicants (**98.6%**) applied for loans less or equal to the *Purchase Price*.
 - **94%** applicants applied for loans that larger than **50%** of the *Purchase Price*.
 - Most influential factors to an application's loan amount: applicant's income, value of their liquid assets, property type and its purchase price.
 
-### Regarding Property Types:
+### Property Types:
 - Most of loans (**70%**) applied for purchasing Property **Type 2**, while this of **Type 3** is only **9%**
 
 ### Proposed Questions:
