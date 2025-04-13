@@ -1,5 +1,7 @@
 # Loan Applications Analysis
 
+**Tools Used: Python (Jupiter Notebook), Power BI**
+
 ## Background
 The Explanatory Data Analysis on a Bank's Application Loan Data, in order to identify:
 - Main trends among all applications, focusing on loan decisions, loan amount, and property types of loans.
